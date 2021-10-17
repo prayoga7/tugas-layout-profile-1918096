@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Profil1918096" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <color name="colorPrimary">#ffffff</color>
+        <color name="colorPrimaryDark">#241333</color>
+        <color name="colorAccent">#d81b60</color>
+        <color name="colorLayerback">#8a56ab</color>
+        <color name="colorBack">#241333</color>
+        <color name="colorTitle">#362742</color>
+        <color name="colorSubtitle">#c5c9cf</color>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
